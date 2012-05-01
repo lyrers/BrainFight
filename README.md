@@ -5,4 +5,4 @@ BrainFight
 
 Qingwei joined the team now
 
-Qingwei leave the team now
+支持中文否？
